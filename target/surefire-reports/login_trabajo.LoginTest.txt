@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: login_trabajo.LoginTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.109 s <<< FAILURE! - in login_trabajo.LoginTest
+testMain  Time elapsed: 0.103 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at login_trabajo.LoginTest.testMain(LoginTest.java:28)
+
